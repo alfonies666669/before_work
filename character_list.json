@@ -1,0 +1,24 @@
+[
+{
+    "id": 0,
+    "name": "Molecule Man",
+    "age": 29,
+    "secretIdentity": "Dan Jukes",
+    "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+    ]
+},
+    {
+    "id": 1,
+    "name": "Midghiht",
+    "age": 44,
+    "secretIdentity": "Baskin Robin",
+    "powers": [
+        "X-Ray",
+        "Silly dump",
+        "Support"
+    ]
+    }
+]

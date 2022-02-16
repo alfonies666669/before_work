@@ -7,5 +7,6 @@
 venv
 __pycache__
 *.iml
+*.txt
 out
 gen
